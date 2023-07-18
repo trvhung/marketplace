@@ -19,4 +19,5 @@ Bootstrap
 
 ## Screenshot
 
-![screen](https://github.com/trvhung/marketplace/assets/34914670/772c31ad-e765-48b6-ad03-8e4ad9d507f8)
+
+![screen](https://github.com/trvhung/marketplace/assets/34914670/3c9ba6b6-3a36-40a5-be5b-ed435117c2d8)
